@@ -9,7 +9,7 @@ Authors:
 3. Femita Pamudyawati (femipamudji05@gmail.com)
 4. Chyntia Dwi Rahma (chyntiadwi83@gmail.com)
 5. Bunga Berliant Aulia Jauhari (bungabaj2005@gmail.com)
-6. Aida Belva 
+6. Aida Belva Fitria (aidabelva04@gmail.com)
 
 -----
 # Overview
@@ -84,12 +84,12 @@ The near-perfectly balanced class distribution eliminates the need for aggressiv
 If you use this work, please cite:
 
 ```bibtex
-@inproceedings{zahra2026sentiment,
+@inproceedings{2026sentimentroberta,
   title     = {Sentiment Analysis of Movie Review Using RoBERTa-Large 
                with Long-Text Chunking and Stratified Ensemble Learning},
   author    = {Zahra, Layli Nurul Fatimah and Zahra, Raychana Maharani 
                and Pamudyawati, Femita and Juhri, Bunga Berliant Aulia 
-               and Rahma, Chyntia Dwi and Belva, Aida },
+               and Rahma, Chyntia Dwi and Fitria, Aida Belva },
   year      = {2026},
   institution = {Institut Teknologi Sepuluh Nopember}
 }

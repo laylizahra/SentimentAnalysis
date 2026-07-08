@@ -4,7 +4,7 @@ Final Project of Introduction to Data Science 2026
 Institut Teknologi Sepuluh Nopember (ITS), Surabaya.
 
 Authors:
-1. Layli Nurul Fatimah Zahra (laylizahra28#gmail.com)
+1. Layli Nurul Fatimah Zahra (laylizahra28@gmail.com)
 2. Raychana Maharani Zahra (zahraychana@gmail.com)
 3. Femita Pamudyawati (femipamudji05@gmail.com)
 4. Chyntia Dwi Rahma (chyntiadwi83@gmail.com)
@@ -89,8 +89,7 @@ If you use this work, please cite:
                with Long-Text Chunking and Stratified Ensemble Learning},
   author    = {Zahra, Layli Nurul Fatimah and Zahra, Raychana Maharani 
                and Pamudyawati, Femita and Juhri, Bunga Berliant Aulia 
-               and Rahma, Chyntia Dwi},
-  booktitle = {IEEE Conference on Data Science and Applications},
+               and Rahma, Chyntia Dwi and Belva, Aida },
   year      = {2026},
   institution = {Institut Teknologi Sepuluh Nopember}
 }

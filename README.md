@@ -30,9 +30,9 @@ Trained and evaluated on the [Kaggle competition dataset](https://www.kaggle.com
 ## 🗂️ Repository Structure
 
 ```
-├── roberta_sentiment.ipynb        # Main notebook (Kaggle-ready)
-├── submission.csv                 # Final predictions (Row, Label)
-├── Sentiment_Paper.docx           # IEEE conference paper
+├── roberta_sentiment.ipynb                 # Main notebook (Kaggle-ready)
+├── submission.csv                          # Final predictions (Row, Label)
+├── Report of Sentiment Analysis.pdf        # Report Paper 
 └── README.md
 ```
 ---

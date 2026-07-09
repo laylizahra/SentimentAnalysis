@@ -85,8 +85,7 @@ If you use this work, please cite:
 
 ```bibtex
 @inproceedings{2026sentimentroberta,
-  title     = {Sentiment Analysis of Movie Review Using RoBERTa-Large 
-               with Long-Text Chunking and Stratified Ensemble Learning},
+  title     = {A Sentiment Analysis of Movie Review Using RoBERTa-Large},
   author    = {Zahra, Layli Nurul Fatimah and Zahra, Raychana Maharani 
                and Pamudyawati, Femita and Juhri, Bunga Berliant Aulia 
                and Rahma, Chyntia Dwi and Fitria, Aida Belva },

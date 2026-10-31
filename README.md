@@ -277,4 +277,3 @@ If you use this work, please cite:
 
 ---
 
-<p align="center">Made with ❤️ by the ITS Data Science 2026 Team</p>
